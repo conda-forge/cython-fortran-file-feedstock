@@ -5,7 +5,7 @@ Home: https://github.com/cphyc/cython_fortran_file/
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: An efficient package to read fortran-record files in Python
 
