@@ -5,7 +5,7 @@ Home: https://github.com/cphyc/cython_fortran_file/
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: An efficient package to read fortran-record files in Python
 
@@ -30,24 +30,24 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_numpy1.14python3.6.____cpython</td>
+              <td>linux_numpy1.16python3.6.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8744&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=linux&configuration=linux_numpy1.14python3.6.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=linux&configuration=linux_numpy1.16python3.6.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_numpy1.14python3.7.____cpython</td>
+              <td>linux_numpy1.16python3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8744&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=linux&configuration=linux_numpy1.14python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=linux&configuration=linux_numpy1.16python3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_numpy1.14python3.8.____cpython</td>
+              <td>linux_numpy1.16python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8744&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=linux&configuration=linux_numpy1.14python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=linux&configuration=linux_numpy1.16python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -58,24 +58,24 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>osx_numpy1.14python3.6.____cpython</td>
+              <td>osx_numpy1.16python3.6.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8744&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=osx&configuration=osx_numpy1.14python3.6.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=osx&configuration=osx_numpy1.16python3.6.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_numpy1.14python3.7.____cpython</td>
+              <td>osx_numpy1.16python3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8744&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=osx&configuration=osx_numpy1.14python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=osx&configuration=osx_numpy1.16python3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_numpy1.14python3.8.____cpython</td>
+              <td>osx_numpy1.16python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8744&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=osx&configuration=osx_numpy1.14python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cython-fortran-file-feedstock?branchName=master&jobName=osx&configuration=osx_numpy1.16python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
