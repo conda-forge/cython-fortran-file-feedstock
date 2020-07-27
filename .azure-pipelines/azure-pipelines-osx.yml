@@ -8,7 +8,6 @@ jobs:
     vmImage: macOS-10.14
   timeoutInMinutes: 360
   strategy:
-    maxParallel: 8
     matrix:
       osx_numpy1.14python3.6.____cpython:
         CONFIG: osx_numpy1.14python3.6.____cpython
@@ -26,8 +25,7 @@ jobs:
   steps:
   # TODO: Fast finish on azure pipelines?
   - script: |
-      echo "Fast Finish"
-      
+      echo "Fast Finish"      
 
   - script: |
       echo "Removing homebrew from Azure to avoid conflicts."
