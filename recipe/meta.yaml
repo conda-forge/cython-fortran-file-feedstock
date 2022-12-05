@@ -1,16 +1,16 @@
 {% set name = "cython-fortran-file" %}
-{% set version = "0.2.4" %}
+{% set version = "0.2.5" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://github.com/cphyc/cython_fortran_file/archive/refs/tags/{{ version }}.tar.gz
-  sha256: 7fc2d4ec2fc90e058cd221d4cfe4f85c229f707df33cf83d6b05aa62b115bde0
+  url: https://github.com/cphyc/cython_fortran_file/archive/refs/tags/v{{ version }}.tar.gz
+  sha256: 5debbcbdb36013747aeff066eb57c5c7273734fb6f5c1fe6ddeb6746644e99bb
 
 build:
-  number: 2
+  number: 0
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
