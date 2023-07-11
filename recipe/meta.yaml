@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/cphyc/cython_fortran_file/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 5debbcbdb36013747aeff066eb57c5c7273734fb6f5c1fe6ddeb6746644e99bb
+  sha256: 73cea2ba4f27edb0d02605e1b742ce6db7ad6a9d222dd2e84283ca46e19e4a04
 
 build:
   number: 0
